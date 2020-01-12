@@ -9,7 +9,7 @@ PyCon is programmed by author "Raj Ghosh"
       LICENSE: GNU PUBLIC LICENSE
              VERSION: 1.0
 
-GITHUB: ""
+GITHUB: "https://github.com/RajGhosh289"
 Type !help to print all available commands
 
     """)
